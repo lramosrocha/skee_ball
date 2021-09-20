@@ -1,5 +1,5 @@
 /*
-    git: https://git.gsi.de/l.ramosrocha/lf5_project
+    git: https://github.com/lramosrocha/skee_ball
 */
 import processing.sound.*;
 
